@@ -1,4 +1,4 @@
-# Apple Retail Sales SQL Project Analyzing Millions of Sales Rows
+# Apple Retail Sales SQL Project Analyzing
 ![banner](https://github.com/Ahasanul-Hossain/Apple-Retail-Sales-Analysis/blob/main/background.jpg)
 
 ### Overview
